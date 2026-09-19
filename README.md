@@ -1,4 +1,4 @@
-# screeps-starter-rust
+# adri's rusty screepers (creepy screepies)
 
 Starter Rust AI for [Screeps: World][screeps], the JavaScript-based MMO game.
 
@@ -13,7 +13,11 @@ Documentation for the Rust version of the game APIs is at https://docs.rs/screep
 Almost all crates on https://crates.io/ are usable (only things which interact with OS
 apis are broken).
 
-## Quickstart:
+## Script Deploy (local copy)
+Builds and copies the files to my local screeps folder
+./deploy-local.sh
+
+## Documented Deploy:
 
 ```sh
 # Install rustup: https://rustup.rs/
