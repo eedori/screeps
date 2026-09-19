@@ -1,5 +1,0 @@
-error: string values must be quoted, expected literal string
- --> Cargo.toml:4:12
-  |
-4 | authors = [eedori]
-  |            ^^^^^^
